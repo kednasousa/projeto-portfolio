@@ -1,0 +1,7 @@
+.home__title {
+  color: var(--azul);
+  /* color: var(--cinza); */
+  font-size: 5.5rem;
+  line-height: 6rem;
+  margin-top: 0.5rem;
+}

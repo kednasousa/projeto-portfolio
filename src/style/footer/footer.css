@@ -1,0 +1,11 @@
+footer {
+  display: block;
+  /* background-color: #f8f9fa; Cor de fundo clara */
+  color: #333; /* Cor do texto */
+  padding: 20px; /* Espaçamento interno */
+  position: fixed; /* Fixar no fundo da tela */
+  bottom: 0; /* Alinhar ao fundo */
+  width: 100%; /* Ocupa toda a largura da tela */
+  text-align: center;
+  left: -50px; /* Mover 20px para a esquerda */
+}
